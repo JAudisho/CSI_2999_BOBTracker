@@ -52,7 +52,7 @@ class _HomepageState extends State<Homepage> {
                                     offset: Offset(4, 4))
                               ]),
                           child: Text(
-                            'Flutter Carousel Slider item ${i + 1}',
+                            'Carousel Slider item ${i + 1}',
                             style: TextStyle(color: Colors.white, fontSize: 15),
                           ),
                         )
