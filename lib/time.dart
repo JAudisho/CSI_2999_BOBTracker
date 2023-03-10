@@ -79,7 +79,7 @@ class Time extends StatelessWidget {
               child: Container(
                 alignment: Alignment.center,
                 child: const Text(
-                  "00:00:00",
+                  "20:00:00",
                   style: TextStyle(
                     fontSize: 50.0,
                     fontWeight: FontWeight.w700,
