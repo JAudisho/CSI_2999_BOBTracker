@@ -1,4 +1,4 @@
-The User's Lifestyle Companion App is a mobile application designed to enhance the daily life experience of its user. The app encompasses various features catering to personalization, health and fitness, time management, and more. It adopts a modular structure with distinct screens dedicated to specific functionalities.
+This app is designed to provide users with enhanced features for personalization, health and fitness tracking, time management, and various other functionalities to improve their daily lives.
 
 Key Features:
 
